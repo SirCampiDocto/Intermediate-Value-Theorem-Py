@@ -11,5 +11,8 @@ authors:
   - given-names: Eloy
     family-names: Guillén Ramírez
     email: eloy.guillenramirez@gmail.com
+repository-code: >-
+  https://github.com/SirCampiDocto/Intermediate-Value-Theorem-Py
+license: Unlicense
 version: 1.0.0
 date-released: '2023-01-15'
